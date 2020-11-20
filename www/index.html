@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>网络调试</title>
+    <link href="css/index.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery-3.4.1.js"></script>
+    <script src="js/index.js"></script>
+</head>
+<body>
+    <div class="login">
+        <div class="main">
+            <form>
+                <h1>网络调试</h1>
+                <table align="center">
+                    <tr>
+                        <td align="center">
+                            <input type="text" name="IP" id="IP" placeholder="请输入屏蔽的IP">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <input type="text" name="MAC" id="MAC" placeholder="请输入屏蔽的MAC">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <input type="text" name="route" id="route" placeholder="请输入你想要设置的路由表">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <p id="filter_ip" onclick="my_route(1);">屏蔽IP</p>
+                            <p id="filter_mac" onclick="my_route(2);">屏蔽MAC</p>
+                            <p id="set_route" onclick="my_route(3);">设置路由表</p>
+                            <!-- <p id="reset">重置</p> -->
+                        </td>
+                    </tr>                            
+                </table>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

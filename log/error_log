@@ -1,0 +1,44 @@
+[14/Oct/2020:06:45:17 +0000] boa: server version Boa/0.94.13
+[14/Oct/2020:06:45:17 +0000] boa: server built Oct 14 2020 at 14:12:17.
+[14/Oct/2020:06:45:17 +0000] boa: starting server pid=5969, port 80
+[14/Oct/2020:07:04:21 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[14/Oct/2020:07:05:42 +0000] request from 10.30.155.253 "(null)" ("(null)"): connection timed out
+[14/Oct/2020:07:05:42 +0000] request from 10.30.155.253 "(null)" ("(null)"): connection timed out
+[14/Oct/2020:07:49:46 +0000] request from 10.30.155.253 "(null)" ("(null)"): connection timed out
+[15/Oct/2020:08:43:35 +0000] boa: server version Boa/0.94.13
+[15/Oct/2020:08:43:35 +0000] boa: server built Oct 14 2020 at 14:12:17.
+[15/Oct/2020:08:43:35 +0000] boa: starting server pid=3678, port 80
+[15/Oct/2020:09:34:29 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[21/Oct/2020:11:31:47 +0000] boa: server version Boa/0.94.13
+[21/Oct/2020:11:31:47 +0000] boa: server built Oct 14 2020 at 14:12:17.
+[21/Oct/2020:11:31:47 +0000] boa: starting server pid=3980, port 80
+[21/Oct/2020:11:32:05 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[21/Oct/2020:12:30:24 +0000] request from 10.30.155.253 "(null)" ("(null)"): connection timed out
+[21/Oct/2020:12:30:24 +0000] request from 10.30.155.253 "(null)" ("(null)"): connection timed out
+[22/Oct/2020:00:53:44 +0000] boa: server version Boa/0.94.13
+[22/Oct/2020:00:53:44 +0000] boa: server built Oct 14 2020 at 14:12:17.
+[22/Oct/2020:00:53:44 +0000] boa: starting server pid=3659, port 80
+[22/Oct/2020:00:54:39 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[22/Oct/2020:02:10:24 +0000] request from 10.30.155.253 "GET /css/img/background.png HTTP/1.1" ("/home/edu/boa/www/css/img/background.png"): document open: No such file or directory
+[22/Oct/2020:02:10:24 +0000] request from 10.30.155.253 "GET /css/img/webdenglu.png HTTP/1.1" ("/home/edu/boa/www/css/img/webdenglu.png"): document open: No such file or directory
+[22/Oct/2020:02:10:24 +0000] request from 10.30.155.253 "GET /css/img/IP.png HTTP/1.1" ("/home/edu/boa/www/css/img/IP.png"): document open: No such file or directory
+[22/Oct/2020:02:10:24 +0000] request from 10.30.155.253 "GET /css/img/mac.png HTTP/1.1" ("/home/edu/boa/www/css/img/mac.png"): document open: No such file or directory
+[22/Oct/2020:02:10:24 +0000] request from 10.30.155.253 "GET /css/img/route.png HTTP/1.1" ("/home/edu/boa/www/css/img/route.png"): document open: No such file or directory
+[22/Oct/2020:02:11:43 +0000] request from 10.30.155.253 "GET /img/webdenglu.png HTTP/1.1" ("/home/edu/boa/www/img/webdenglu.png"): document open: No such file or directory
+[22/Oct/2020:02:45:29 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:45:30 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:45:32 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:32 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:33 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:33 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:33 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:33 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:33 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:34 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:02:46:34 +0000] cgi_header: unable to find LFLF
+[22/Oct/2020:06:16:19 +0000] boa.c:194 - unable to bind: Address already in use
+[22/Oct/2020:06:16:57 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[22/Oct/2020:06:48:15 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[22/Oct/2020:06:49:18 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[22/Oct/2020:07:06:03 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
+[22/Oct/2020:07:07:19 +0000] request from 10.30.155.253 "GET /favicon.ico HTTP/1.1" ("/home/edu/boa/www/favicon.ico"): document open: No such file or directory
